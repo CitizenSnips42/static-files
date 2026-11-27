@@ -1,0 +1,21 @@
+{
+ "format": 1,
+ "product": "llmapp",
+ "sequence": 2026112701,
+ "published": "2026-11-27",
+ "assets": "https://github.com/CitizenSnips42/static-files/releases/download/d3-0.9.1/",
+ "app": {
+  "version": "0.9.1",
+  "minFrom": "0.8.0",
+  "file": "app-0.9.1.tar.gz",
+  "sha256": "bae6376affc55251e611773707e4147d15c615c2576ed9c2741d7df88a3945b8",
+  "size": 51068085
+ },
+ "os": {
+  "id": 2026112701,
+  "baseline": "0.8.0",
+  "file": "os-2026112701.tar.gz",
+  "sha256": "90a1e3716bb97141b31e6d82a58d13b4145c2449dfda410bb4a9097d37d536be",
+  "size": 6205053
+ }
+}
